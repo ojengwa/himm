@@ -1,6 +1,6 @@
 {
   "name": "himm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Histrogramic In-Motion Mapping module framework for NodeJS.",
   "main": "index.js",
   "scripts": {
