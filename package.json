@@ -1,0 +1,36 @@
+{
+  "name": "himm",
+  "version": "0.0.1",
+  "description": "Histrogramic In-Motion Mapping module framework for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojengwa/himm.git"
+  },
+  "keywords": [
+    "mapping",
+    "algorithm",
+    "histogram",
+    "obstacle",
+    "avoidance",
+    "real-time",
+    "mapp",
+    "building",
+    "robotics",
+    "motion",
+    "sampling",
+    "steering",
+    "omnidirectional",
+    "vector",
+    "field"
+  ],
+  "author": "Bernard Ojengwa <bernardojengwa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ojengwa/himm/issues"
+  },
+  "homepage": "https://github.com/ojengwa/himm#readme"
+}
